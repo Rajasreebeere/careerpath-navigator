@@ -8,11 +8,6 @@ __pycache__/
 .local/
 .agents/
 .conversation/
-.replit
-.replit-artifact/
-.replitignore
-replit.nix
-replit.md
 .upm/
 .config/
 .cache/
