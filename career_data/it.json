@@ -1,0 +1,4358 @@
+[
+  {
+    "id": "ai-engineer",
+    "name": "AI Engineer",
+    "sector": "it",
+    "icon": "brain-circuit",
+    "shortDescription": "Design, evaluate, and deploy AI features that solve specific user or business problems.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level AI Engineer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹8–24 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Design, evaluate, and deploy AI features that solve specific user or business problems. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No single mandatory license; hiring tests and a demonstrable portfolio are common"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "machine learning",
+        "LLM APIs",
+        "model evaluation",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Python",
+        "priority": "Must-have"
+      },
+      {
+        "name": "PyTorch",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Git",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in AI Engineer.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for AI Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study machine learning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to AI Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through llm apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's AI Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer AI Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for AI Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study machine learning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to AI Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through llm apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's AI Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer AI Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for AI Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Python."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer AI Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for AI Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in python."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer AI Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the user problem and data access with product and engineering partners."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Prototype an AI workflow and compare outputs against a clear evaluation set."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Investigate failure cases, improve instructions or retrieval, and check for unsafe responses."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Integrate the feature behind a measured release and document its limits."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior AI Engineer",
+      "AI Engineer / Associate",
+      "Experienced AI Engineer",
+      "Senior AI Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "machine-learning-engineer",
+      "data-scientist",
+      "data-analyst"
+    ],
+    "quizTags": [
+      "logic",
+      "science",
+      "building"
+    ]
+  },
+  {
+    "id": "machine-learning-engineer",
+    "name": "Machine Learning Engineer",
+    "sector": "it",
+    "icon": "workflow",
+    "shortDescription": "Build reliable machine-learning pipelines and production models from well-defined data problems.",
+    "difficulty": "Advanced",
+    "totalTime": "14–20 months",
+    "goalDefinition": "Goal: become ready for an entry-level Machine Learning Engineer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "14–20 months",
+        "totalWeeks": 72
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "24–35 months",
+        "totalWeeks": 128
+      }
+    },
+    "salaryRange": "₹8–25 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Build reliable machine-learning pipelines and production models from well-defined data problems. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No single mandatory license; project evidence and technical interviews are common"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "statistics",
+        "model training",
+        "MLOps",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Python",
+        "priority": "Must-have"
+      },
+      {
+        "name": "scikit-learn",
+        "priority": "Must-have"
+      },
+      {
+        "name": "PyTorch",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 14,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Machine Learning Engineer.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for Machine Learning Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study statistics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Machine Learning Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through model training and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Machine Learning Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Machine Learning Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 18,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for Machine Learning Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study statistics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Machine Learning Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through model training and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Machine Learning Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Machine Learning Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 22,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Machine Learning Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Python."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Machine Learning Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 18,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Machine Learning Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in python."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Machine Learning Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check data pipelines, model-serving health, and yesterday's performance alerts."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Train and benchmark a candidate model with reproducible experiments."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Validate feature quality, latency, drift, and model behavior on held-out examples."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Prepare a tested deployment and monitor the rollout with the team."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Machine Learning Engineer",
+      "Machine Learning Engineer / Associate",
+      "Experienced Machine Learning Engineer",
+      "Senior Machine Learning Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "data-scientist",
+      "data-analyst"
+    ],
+    "quizTags": [
+      "logic",
+      "numbers",
+      "science"
+    ]
+  },
+  {
+    "id": "data-scientist",
+    "name": "Data Scientist",
+    "sector": "it",
+    "icon": "chart-no-axes-combined",
+    "shortDescription": "Use statistics, programming, and domain knowledge to turn data into useful decisions.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Data Scientist role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹7–22 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Use statistics, programming, and domain knowledge to turn data into useful decisions. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No single mandatory license; employers assess statistics, coding, and projects"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "Python",
+        "statistics",
+        "SQL",
+        "machine learning",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Python",
+        "priority": "Must-have"
+      },
+      {
+        "name": "SQL",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Jupyter",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Data Scientist.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for Data Scientist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study statistics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Data Scientist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sql and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Data Scientist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Scientist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key python concepts for Data Scientist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study statistics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Data Scientist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sql and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Data Scientist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Scientist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Data Scientist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Python."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Scientist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen python with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Data Scientist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in python."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Scientist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study python for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Clarify a business question and agree what evidence would answer it."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Query and clean a dataset, then explore patterns with statistical methods."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Test a model or experiment and check assumptions, uncertainty, and bias."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Explain the result and practical recommendation to decision-makers."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Data Scientist",
+      "Data Scientist / Associate",
+      "Experienced Data Scientist",
+      "Senior Data Scientist",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-analyst"
+    ],
+    "quizTags": [
+      "logic",
+      "numbers",
+      "science"
+    ]
+  },
+  {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "sector": "it",
+    "icon": "chart-column",
+    "shortDescription": "Clean and interpret data, then explain findings clearly so teams can make better decisions.",
+    "difficulty": "Beginner",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level Data Analyst role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "₹4–12 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Clean and interpret data, then explain findings clearly so teams can make better decisions. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No single mandatory license; employer assessments commonly test SQL and spreadsheets"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "spreadsheets",
+        "SQL",
+        "data visualization",
+        "statistics",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Excel",
+        "priority": "Must-have"
+      },
+      {
+        "name": "SQL",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Power BI",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Data Analyst.",
+          "Strengthen spreadsheets with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key spreadsheets concepts for Data Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study sql using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Data Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through data visualization and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Data Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study spreadsheets for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen spreadsheets with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key spreadsheets concepts for Data Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study sql using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Data Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through data visualization and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Data Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study spreadsheets for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen spreadsheets with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Data Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study spreadsheets for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen spreadsheets with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Data Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in spreadsheets."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Data Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study spreadsheets for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review a team's reporting question and confirm the metric definitions."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Write SQL queries and check the source data for missing or inconsistent values."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Build a concise chart or dashboard and compare it against the underlying records."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Present the finding and next action to the team requesting the analysis."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Data Analyst",
+      "Data Analyst / Associate",
+      "Experienced Data Analyst",
+      "Senior Data Analyst",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "numbers",
+      "logic",
+      "communication"
+    ]
+  },
+  {
+    "id": "full-stack-web-developer",
+    "name": "Full Stack Web Developer",
+    "sector": "it",
+    "icon": "panels-top-left",
+    "shortDescription": "Create accessible web applications across their browser interfaces, APIs, and databases.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Full Stack Web Developer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹5–18 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Create accessible web applications across their browser interfaces, APIs, and databases. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No mandatory license; employers commonly review a portfolio and coding skills"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "HTML/CSS",
+        "JavaScript",
+        "APIs",
+        "databases",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "JavaScript",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Git",
+        "priority": "Must-have"
+      },
+      {
+        "name": "SQL",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Full Stack Web Developer.",
+          "Strengthen html/css with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key html/css concepts for Full Stack Web Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study javascript using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Full Stack Web Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Full Stack Web Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Full Stack Web Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study html/css for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen html/css with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key html/css concepts for Full Stack Web Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study javascript using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Full Stack Web Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Full Stack Web Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Full Stack Web Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study html/css for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen html/css with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Full Stack Web Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using JavaScript."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Full Stack Web Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study html/css for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen html/css with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Full Stack Web Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in html/css."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Full Stack Web Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study html/css for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Join a short team stand-up and select a user-facing task."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Build a browser interface and connect it to a validated API endpoint."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Write tests, inspect errors, and verify keyboard and mobile behavior."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Review a code change with teammates and record deployment notes."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Full Stack Web Developer",
+      "Full Stack Web Developer / Associate",
+      "Experienced Full Stack Web Developer",
+      "Senior Full Stack Web Developer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "building",
+      "logic",
+      "creative"
+    ]
+  },
+  {
+    "id": "mobile-app-developer",
+    "name": "Mobile App Developer",
+    "sector": "it",
+    "icon": "smartphone",
+    "shortDescription": "Build, test, and ship useful Android or cross-platform mobile applications.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Mobile App Developer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹5–18 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Build, test, and ship useful Android or cross-platform mobile applications. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No mandatory license; employers commonly assess shipped or testable applications"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "programming",
+        "mobile UI",
+        "APIs",
+        "testing",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Kotlin",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Flutter",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Git",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Mobile App Developer.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key programming concepts for Mobile App Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study mobile ui using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Mobile App Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Mobile App Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mobile App Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key programming concepts for Mobile App Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study mobile ui using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Mobile App Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through apis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Mobile App Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mobile App Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Mobile App Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Kotlin."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mobile App Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Mobile App Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in programming."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mobile App Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check crash reports and the team's mobile release priorities."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Implement a mobile screen or feature and connect it to application data."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Test the flow on target screen sizes, network conditions, and accessibility settings."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Prepare a test build and share release notes with the product team."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Mobile App Developer",
+      "Mobile App Developer / Associate",
+      "Experienced Mobile App Developer",
+      "Senior Mobile App Developer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "building",
+      "logic",
+      "creative"
+    ]
+  },
+  {
+    "id": "cybersecurity-analyst",
+    "name": "Cybersecurity Analyst",
+    "sector": "it",
+    "icon": "shield-check",
+    "shortDescription": "Help organizations find security weaknesses, investigate alerts, and reduce cyber risk.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Cybersecurity Analyst role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹5–18 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Help organizations find security weaknesses, investigate alerts, and reduce cyber risk. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "Optional entry certifications such as Security+ or Google Cybersecurity Certificate"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "networking",
+        "Linux",
+        "security monitoring",
+        "incident response",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Linux",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Wireshark",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Python",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Cybersecurity Analyst.",
+          "Strengthen networking with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key networking concepts for Cybersecurity Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study linux using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Cybersecurity Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through security monitoring and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Cybersecurity Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cybersecurity Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study networking for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen networking with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key networking concepts for Cybersecurity Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study linux using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Cybersecurity Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through security monitoring and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Cybersecurity Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cybersecurity Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study networking for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen networking with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Cybersecurity Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Linux."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cybersecurity Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study networking for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen networking with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Cybersecurity Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in networking."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cybersecurity Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study networking for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review security alerts, incident handovers, and priority advisories."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Triage event logs and network activity to separate expected behavior from risk."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Investigate a suspected incident and coordinate an appropriate containment step."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Document findings, notify the right owner, and update detection rules."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Cybersecurity Analyst",
+      "Cybersecurity Analyst / Associate",
+      "Experienced Cybersecurity Analyst",
+      "Senior Cybersecurity Analyst",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "logic",
+      "science",
+      "building"
+    ]
+  },
+  {
+    "id": "cloud-devops-engineer",
+    "name": "Cloud/DevOps Engineer",
+    "sector": "it",
+    "icon": "cloud-cog",
+    "shortDescription": "Automate software delivery and operate secure, dependable cloud infrastructure.",
+    "difficulty": "Advanced",
+    "totalTime": "13–18 months",
+    "goalDefinition": "Goal: become ready for an entry-level Cloud/DevOps Engineer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–13 months",
+        "totalWeeks": 49
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "13–18 months",
+        "totalWeeks": 68
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "23–33 months",
+        "totalWeeks": 121
+      }
+    },
+    "salaryRange": "₹7–24 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Automate software delivery and operate secure, dependable cloud infrastructure. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "Optional cloud-provider associate certifications"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "Linux",
+        "cloud computing",
+        "scripting",
+        "CI/CD",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Linux",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Docker",
+        "priority": "Must-have"
+      },
+      {
+        "name": "AWS",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Cloud/DevOps Engineer.",
+          "Strengthen linux with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key linux concepts for Cloud/DevOps Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study cloud computing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Cloud/DevOps Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through scripting and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Cloud/DevOps Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cloud/DevOps Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study linux for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 17,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen linux with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key linux concepts for Cloud/DevOps Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study cloud computing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Cloud/DevOps Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through scripting and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Cloud/DevOps Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cloud/DevOps Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study linux for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 21,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen linux with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Cloud/DevOps Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Linux."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cloud/DevOps Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study linux for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 17,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen linux with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Cloud/DevOps Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in linux."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Cloud/DevOps Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study linux for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check service health, overnight alerts, and the deployment calendar."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Improve infrastructure-as-code or a CI/CD pipeline for a team service."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Test a release, monitor reliability signals, and resolve an operational issue."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Record a runbook update and review capacity, access, and recovery readiness."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Cloud/DevOps Engineer",
+      "Cloud/DevOps Engineer / Associate",
+      "Experienced Cloud/DevOps Engineer",
+      "Senior Cloud/DevOps Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "logic",
+      "building",
+      "numbers"
+    ]
+  },
+  {
+    "id": "game-developer",
+    "name": "Game Developer",
+    "sector": "it",
+    "icon": "gamepad-2",
+    "shortDescription": "Turn creative game concepts into playable experiences using programming, testing, and iteration.",
+    "difficulty": "Intermediate",
+    "totalTime": "14–20 months",
+    "goalDefinition": "Goal: become ready for an entry-level Game Developer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "14–20 months",
+        "totalWeeks": 72
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "24–35 months",
+        "totalWeeks": 128
+      }
+    },
+    "salaryRange": "₹4–16 LPA",
+    "demand": "Moderate",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Turn creative game concepts into playable experiences using programming, testing, and iteration. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No mandatory license; playable projects are important evidence"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "programming",
+        "game physics",
+        "3D basics",
+        "debugging",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "C#",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Unity",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Git",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 14,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Game Developer.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key programming concepts for Game Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study game physics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Game Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through 3d basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Game Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Game Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 18,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key programming concepts for Game Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study game physics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Game Developer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through 3d basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Game Developer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Game Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 22,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Game Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using C#."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Game Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 18,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen programming with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Game Developer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in programming."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Game Developer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study programming for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review a game sprint goal and any play-test feedback."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Implement a mechanic, interaction, or level behavior in the game engine."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Play through the build, reproduce bugs, and tune performance or controls."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Share a playable build and record design and technical decisions."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Game Developer",
+      "Game Developer / Associate",
+      "Experienced Game Developer",
+      "Senior Game Developer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "creative",
+      "logic",
+      "building"
+    ]
+  },
+  {
+    "id": "ui-ux-designer",
+    "name": "UI/UX Designer",
+    "sector": "it",
+    "icon": "panels-top-left",
+    "shortDescription": "Research user needs and design clear, accessible digital experiences from first sketch to prototype.",
+    "difficulty": "Beginner",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level UI/UX Designer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "₹4–16 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Research user needs and design clear, accessible digital experiences from first sketch to prototype. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "No mandatory license; case studies and prototypes are typically assessed"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "user research",
+        "interaction design",
+        "prototyping",
+        "accessibility",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Figma",
+        "priority": "Must-have"
+      },
+      {
+        "name": "FigJam",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Miro",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in UI/UX Designer.",
+          "Strengthen user research with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key user research concepts for UI/UX Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study interaction design using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to UI/UX Designer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through prototyping and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's UI/UX Designer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer UI/UX Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study user research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen user research with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key user research concepts for UI/UX Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study interaction design using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to UI/UX Designer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through prototyping and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's UI/UX Designer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer UI/UX Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study user research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen user research with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for UI/UX Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Figma."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer UI/UX Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study user research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen user research with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for UI/UX Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in user research."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer UI/UX Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study user research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review research findings and clarify the next user question."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Sketch and prototype an interface flow for a target user need."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Run a usability check and note where people hesitate or misunderstand."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Share findings with product and engineering and refine the design."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior UI/UX Designer",
+      "UI/UX Designer / Associate",
+      "Experienced UI/UX Designer",
+      "Senior UI/UX Designer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "creative",
+      "communication",
+      "helping"
+    ]
+  },
+  {
+    "id": "software-tester-qa",
+    "name": "Software Tester (QA)",
+    "sector": "it",
+    "icon": "bug",
+    "shortDescription": "Find defects early and help teams release software that behaves as people expect.",
+    "difficulty": "Beginner",
+    "totalTime": "9–13 months",
+    "goalDefinition": "Goal: become ready for an entry-level Software Tester (QA) role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 35
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "9–13 months",
+        "totalWeeks": 48
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "16–23 months",
+        "totalWeeks": 85
+      }
+    },
+    "salaryRange": "₹3.5–12 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Technology companies",
+      "Startups and product teams",
+      "IT services firms",
+      "Remote or hybrid teams"
+    ],
+    "overview": "Find defects early and help teams release software that behaves as people expect. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a CS degree can help but is not required for every role.",
+        "Build practical evidence through projects, coursework, internships, or entry-level work."
+      ],
+      "exams": [
+        "Optional ISTQB Foundation certification"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "test design",
+        "bug reporting",
+        "web basics",
+        "automation",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Jira",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Postman",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Playwright",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 9,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Software Tester (QA).",
+          "Strengthen test design with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key test design concepts for Software Tester (QA)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study bug reporting using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Software Tester (QA)."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through web basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Software Tester (QA) study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Software Tester (QA) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study test design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen test design with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key test design concepts for Software Tester (QA)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study bug reporting using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Software Tester (QA)."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through web basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Software Tester (QA) study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Software Tester (QA) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study test design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "3 months",
+        "durationWeeks": 15,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen test design with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Software Tester (QA)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Jira."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Software Tester (QA) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study test design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen test design with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Software Tester (QA)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in test design."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Software Tester (QA) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study test design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review priorities and coordinate work with the product or engineering team."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review release changes and identify the highest-risk user flows."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Run exploratory checks across supported browsers and common edge cases."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Automate a regression scenario and record reproducible defect details."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Discuss release risk with developers and update the test report."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Share progress with teammates, check user impact, and record the next technical step."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "freeCodeCamp",
+        "type": "Course",
+        "link": "https://www.freecodecamp.org"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Python Crash Course",
+        "type": "Book",
+        "link": "https://nostarch.com"
+      },
+      {
+        "title": "freeCodeCamp.org",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@freecodecamp"
+      },
+      {
+        "title": "MDN Web Docs",
+        "type": "Website",
+        "link": "https://developer.mozilla.org"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Software Tester (QA)",
+      "Software Tester (QA) / Associate",
+      "Experienced Software Tester (QA)",
+      "Senior Software Tester (QA)",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "ai-engineer",
+      "machine-learning-engineer",
+      "data-scientist"
+    ],
+    "quizTags": [
+      "logic",
+      "communication",
+      "building"
+    ]
+  }
+]

@@ -1,0 +1,1591 @@
+[
+  {
+    "id": "chartered-accountant",
+    "name": "Chartered Accountant",
+    "sector": "commerce",
+    "icon": "calculator",
+    "shortDescription": "Use accounting, audit, tax, and finance expertise to help businesses meet obligations and plan responsibly.",
+    "difficulty": "Advanced",
+    "totalTime": "About 4.5–5 years",
+    "goalDefinition": "Goal: become ready for an entry-level Chartered Accountant role or the relevant formal qualification, from Class 12 through the CA Foundation route. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "32–46 months",
+        "totalWeeks": 168
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4.5–5 years",
+        "totalWeeks": 234
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 8–9 years",
+        "totalWeeks": 417
+      }
+    },
+    "salaryRange": "₹7–20 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Banks and financial services",
+      "CA and audit firms",
+      "Corporate finance teams",
+      "Independent research or practice"
+    ],
+    "overview": "Use accounting, audit, tax, and finance expertise to help businesses meet obligations and plan responsibly. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 in any stream can enter the CA Foundation route subject to current ICAI rules.",
+        "Complete the current ICAI exams and required practical training."
+      ],
+      "exams": [
+        "CA Foundation",
+        "CA Intermediate",
+        "CA Final and required practical training"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "accounting",
+        "taxation",
+        "audit",
+        "financial reporting",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Excel",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Tally",
+        "priority": "Must-have"
+      },
+      {
+        "name": "GST portal",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "10 months",
+        "durationWeeks": 44,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Chartered Accountant.",
+          "Strengthen accounting with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key accounting concepts for Chartered Accountant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study taxation using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Chartered Accountant."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through audit and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Chartered Accountant study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Chartered Accountant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study accounting for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "13 months",
+        "durationWeeks": 58,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen accounting with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key accounting concepts for Chartered Accountant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study taxation using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Chartered Accountant."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through audit and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Chartered Accountant study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Chartered Accountant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study accounting for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "17 months",
+        "durationWeeks": 73,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen accounting with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Chartered Accountant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Chartered Accountant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study accounting for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "14 months",
+        "durationWeeks": 59,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen accounting with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Chartered Accountant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in accounting."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Chartered Accountant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study accounting for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review client requests, daily records, and current compliance deadlines."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the client calendar and open accounting or compliance items."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Reconcile ledger entries and check supporting invoices or bank statements."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Prepare tax, GST, audit, or financial reporting work against current records."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Explain exceptions to a client and document follow-up responsibilities."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Document decisions and explain open questions to the client or finance team."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Financial Accounting",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Zerodha Varsity",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@zerodhaonline"
+      },
+      {
+        "title": "SEBI Investor Education",
+        "type": "Website",
+        "link": "https://investor.sebi.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Chartered Accountant",
+      "Chartered Accountant / Associate",
+      "Experienced Chartered Accountant",
+      "Senior Chartered Accountant",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "banking-professional",
+      "financial-analyst",
+      "stock-market-trader-investor"
+    ],
+    "quizTags": [
+      "numbers",
+      "logic",
+      "communication"
+    ]
+  },
+  {
+    "id": "banking-professional",
+    "name": "Banking Professional",
+    "sector": "commerce",
+    "icon": "landmark",
+    "shortDescription": "Support customers, credit, operations, or risk in a bank after qualifying for suitable roles.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Banking Professional role or the relevant formal qualification, from Class 12, completing the role's required degree or eligibility first. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "28–41 months",
+        "totalWeeks": 150
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 7–8 years",
+        "totalWeeks": 370
+      }
+    },
+    "salaryRange": "₹4–14 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Banks and financial services",
+      "CA and audit firms",
+      "Corporate finance teams",
+      "Independent research or practice"
+    ],
+    "overview": "Support customers, credit, operations, or risk in a bank after qualifying for suitable roles. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 for entry-level routes; bachelor's degree required for many analyst and bank roles.",
+        "For CA, follow the current ICAI entry, examination, and training requirements."
+      ],
+      "exams": [
+        "CA Foundation, CA Intermediate, and CA Final for the CA pathway",
+        "IBPS/SBI recruitment exams for many public-sector bank roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "quantitative aptitude",
+        "banking awareness",
+        "customer service",
+        "reasoning",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Excel",
+        "priority": "Must-have"
+      },
+      {
+        "name": "core banking systems",
+        "priority": "Must-have"
+      },
+      {
+        "name": "financial calculators",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Banking Professional.",
+          "Strengthen quantitative aptitude with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key quantitative aptitude concepts for Banking Professional."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study banking awareness using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Banking Professional."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through customer service and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Banking Professional study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Banking Professional practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study quantitative aptitude for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen quantitative aptitude with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key quantitative aptitude concepts for Banking Professional."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study banking awareness using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Banking Professional."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through customer service and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Banking Professional study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Banking Professional practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study quantitative aptitude for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen quantitative aptitude with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Banking Professional."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Banking Professional practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study quantitative aptitude for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen quantitative aptitude with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Banking Professional."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in quantitative aptitude."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Banking Professional practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study quantitative aptitude for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review client requests, daily records, and current compliance deadlines."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check branch or service-channel priorities and operational notices."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Help customers with account, payment, or credit-service requests."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Review identity and documentation requirements and resolve transaction exceptions."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Reconcile daily records and complete required compliance checks."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Document decisions and explain open questions to the client or finance team."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Financial Accounting",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Zerodha Varsity",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@zerodhaonline"
+      },
+      {
+        "title": "SEBI Investor Education",
+        "type": "Website",
+        "link": "https://investor.sebi.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Banking Professional",
+      "Banking Professional / Associate",
+      "Experienced Banking Professional",
+      "Senior Banking Professional",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "chartered-accountant",
+      "financial-analyst",
+      "stock-market-trader-investor"
+    ],
+    "quizTags": [
+      "numbers",
+      "communication",
+      "helping"
+    ]
+  },
+  {
+    "id": "financial-analyst",
+    "name": "Financial Analyst",
+    "sector": "commerce",
+    "icon": "chart-no-axes-combined",
+    "shortDescription": "Analyze company and market information to support budgeting, valuation, and investment decisions.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 3 years",
+    "goalDefinition": "Goal: become ready for an entry-level Financial Analyst role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "21–30 months",
+        "totalWeeks": 112
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 3 years",
+        "totalWeeks": 156
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4–6 years",
+        "totalWeeks": 278
+      }
+    },
+    "salaryRange": "₹5–16 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Banks and financial services",
+      "CA and audit firms",
+      "Corporate finance teams",
+      "Independent research or practice"
+    ],
+    "overview": "Analyze company and market information to support budgeting, valuation, and investment decisions. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 for entry-level routes; bachelor's degree required for many analyst and bank roles.",
+        "For CA, follow the current ICAI entry, examination, and training requirements."
+      ],
+      "exams": [
+        "CA Foundation, CA Intermediate, and CA Final for the CA pathway",
+        "IBPS/SBI recruitment exams for many public-sector bank roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "financial statements",
+        "Excel modeling",
+        "valuation",
+        "business writing",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Excel",
+        "priority": "Must-have"
+      },
+      {
+        "name": "PowerPoint",
+        "priority": "Must-have"
+      },
+      {
+        "name": "financial data platforms",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "7 months",
+        "durationWeeks": 30,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Financial Analyst.",
+          "Strengthen financial statements with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key financial statements concepts for Financial Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study excel modeling using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Financial Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through valuation and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Financial Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Financial Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial statements for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "9 months",
+        "durationWeeks": 39,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen financial statements with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key financial statements concepts for Financial Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study excel modeling using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Financial Analyst."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through valuation and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Financial Analyst study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Financial Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial statements for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "11 months",
+        "durationWeeks": 48,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen financial statements with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Financial Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Financial Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial statements for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "9 months",
+        "durationWeeks": 39,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen financial statements with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Financial Analyst."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in financial statements."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Financial Analyst practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial statements for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review client requests, daily records, and current compliance deadlines."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review company updates and the team's reporting priorities."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Update a financial model with verified revenue, cost, and market assumptions."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Run scenario analysis and investigate differences from the latest forecast."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Present a concise recommendation with risks and evidence to stakeholders."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Document decisions and explain open questions to the client or finance team."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Financial Accounting",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Zerodha Varsity",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@zerodhaonline"
+      },
+      {
+        "title": "SEBI Investor Education",
+        "type": "Website",
+        "link": "https://investor.sebi.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Financial Analyst",
+      "Financial Analyst / Associate",
+      "Experienced Financial Analyst",
+      "Senior Financial Analyst",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "chartered-accountant",
+      "banking-professional",
+      "stock-market-trader-investor"
+    ],
+    "quizTags": [
+      "numbers",
+      "logic",
+      "communication"
+    ]
+  },
+  {
+    "id": "stock-market-trader-investor",
+    "name": "Stock Market Trader/Investor",
+    "sector": "commerce",
+    "icon": "candlestick-chart",
+    "shortDescription": "Research listed companies and markets using a documented, risk-aware investing process; returns are never guaranteed.",
+    "difficulty": "Advanced",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: follow a documented research, diversification, and risk-management process; this does not promise income or investment returns.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "Varies; no guaranteed income",
+    "demand": "Variable",
+    "whereItWorks": [
+      "Banks and financial services",
+      "CA and audit firms",
+      "Corporate finance teams",
+      "Independent research or practice"
+    ],
+    "overview": "Research listed companies and markets using a documented, risk-aware investing process; returns are never guaranteed. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. Treat trading as high risk: do not use borrowed money, do not rely on guaranteed-return claims, and check SEBI guidance before acting.",
+    "requirements": {
+      "education": [
+        "Class 12 for entry-level routes; bachelor's degree required for many analyst and bank roles.",
+        "For CA, follow the current ICAI entry, examination, and training requirements."
+      ],
+      "exams": [
+        "CA Foundation, CA Intermediate, and CA Final for the CA pathway",
+        "IBPS/SBI recruitment exams for many public-sector bank roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "financial literacy",
+        "market research",
+        "risk management",
+        "behavioral discipline",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Excel",
+        "priority": "Must-have"
+      },
+      {
+        "name": "broker research tools",
+        "priority": "Must-have"
+      },
+      {
+        "name": "SEBI resources",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Stock Market Trader/Investor.",
+          "Strengthen financial literacy with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key financial literacy concepts for Stock Market Trader/Investor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study market research using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Stock Market Trader/Investor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through risk management and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Stock Market Trader/Investor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Stock Market Trader/Investor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial literacy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen financial literacy with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key financial literacy concepts for Stock Market Trader/Investor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study market research using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Stock Market Trader/Investor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through risk management and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Stock Market Trader/Investor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Stock Market Trader/Investor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial literacy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen financial literacy with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Stock Market Trader/Investor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Stock Market Trader/Investor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial literacy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen financial literacy with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Stock Market Trader/Investor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in financial literacy."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Stock Market Trader/Investor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study financial literacy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review client requests, daily records, and current compliance deadlines."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review portfolio exposure, market notices, and personal risk limits."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Read company disclosures and compare evidence with a written investment thesis."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Check valuation, diversification, and downside scenarios before any decision."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update the decision journal and avoid acting on unverified tips or promises."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Document decisions and explain open questions to the client or finance team."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Financial Accounting",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Zerodha Varsity",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@zerodhaonline"
+      },
+      {
+        "title": "SEBI Investor Education",
+        "type": "Website",
+        "link": "https://investor.sebi.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Stock Market Trader/Investor",
+      "Stock Market Trader/Investor / Associate",
+      "Experienced Stock Market Trader/Investor",
+      "Senior Stock Market Trader/Investor",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "chartered-accountant",
+      "banking-professional",
+      "financial-analyst"
+    ],
+    "quizTags": [
+      "numbers",
+      "logic",
+      "building"
+    ]
+  }
+]

@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "graphic-designer",
+    "name": "Graphic Designer",
+    "sector": "creative",
+    "icon": "palette",
+    "shortDescription": "Create visual identities and communication materials that are clear, memorable, and fit for their audience.",
+    "difficulty": "Beginner",
+    "totalTime": "9–13 months",
+    "goalDefinition": "Goal: become ready for an entry-level Graphic Designer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 35
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "9–13 months",
+        "totalWeeks": 48
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "16–23 months",
+        "totalWeeks": 85
+      }
+    },
+    "salaryRange": "₹3–10 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Create visual identities and communication materials that are clear, memorable, and fit for their audience. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "visual hierarchy",
+        "typography",
+        "color",
+        "layout",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Figma",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Adobe tools",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 9,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Graphic Designer.",
+          "Strengthen visual hierarchy with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key visual hierarchy concepts for Graphic Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study typography using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Graphic Designer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through color and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Graphic Designer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Graphic Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study visual hierarchy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen visual hierarchy with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key visual hierarchy concepts for Graphic Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study typography using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Graphic Designer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through color and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Graphic Designer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Graphic Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study visual hierarchy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "3 months",
+        "durationWeeks": 15,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen visual hierarchy with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Graphic Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Canva."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Graphic Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study visual hierarchy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen visual hierarchy with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Graphic Designer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in visual hierarchy."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Graphic Designer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study visual hierarchy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the creative brief, audience, and brand requirements with a client or team."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Develop visual concepts using typography, layout, and image references."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Share a draft, collect focused feedback, and refine the selected direction."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Prepare final accessible files and organize design assets for handover."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Graphic Designer",
+      "Graphic Designer / Associate",
+      "Experienced Graphic Designer",
+      "Senior Graphic Designer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "video-editor",
+      "content-creator-youtuber",
+      "journalist"
+    ],
+    "quizTags": [
+      "creative",
+      "communication",
+      "building"
+    ]
+  },
+  {
+    "id": "video-editor",
+    "name": "Video Editor",
+    "sector": "creative",
+    "icon": "clapperboard",
+    "shortDescription": "Shape footage, sound, and pacing into polished videos for social, education, and commercial audiences.",
+    "difficulty": "Beginner",
+    "totalTime": "9–13 months",
+    "goalDefinition": "Goal: become ready for an entry-level Video Editor role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 35
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "9–13 months",
+        "totalWeeks": 48
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "16–23 months",
+        "totalWeeks": 85
+      }
+    },
+    "salaryRange": "₹3–10 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Shape footage, sound, and pacing into polished videos for social, education, and commercial audiences. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "story structure",
+        "editing",
+        "audio basics",
+        "color correction",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "DaVinci Resolve",
+        "priority": "Must-have"
+      },
+      {
+        "name": "CapCut",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 9,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Video Editor.",
+          "Strengthen story structure with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key story structure concepts for Video Editor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study editing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Video Editor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through audio basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Video Editor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Video Editor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study story structure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen story structure with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key story structure concepts for Video Editor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study editing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Video Editor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through audio basics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Video Editor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Video Editor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study story structure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "3 months",
+        "durationWeeks": 15,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen story structure with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Video Editor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using DaVinci Resolve."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Video Editor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study story structure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen story structure with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Video Editor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in story structure."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Video Editor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study story structure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review footage, the edit brief, and the intended audience and format."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Assemble a story cut and shape timing, transitions, and visual continuity."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Clean dialogue, balance audio, and apply suitable color corrections."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Export a review version and collect notes from the producer or client."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Video Editor",
+      "Video Editor / Associate",
+      "Experienced Video Editor",
+      "Senior Video Editor",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "graphic-designer",
+      "content-creator-youtuber",
+      "journalist"
+    ],
+    "quizTags": [
+      "creative",
+      "building",
+      "communication"
+    ]
+  },
+  {
+    "id": "content-creator-youtuber",
+    "name": "Content Creator/YouTuber",
+    "sector": "creative",
+    "icon": "video",
+    "shortDescription": "Plan, produce, publish, and improve useful content for a clearly defined audience.",
+    "difficulty": "Intermediate",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level Content Creator/YouTuber role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "Varies; audience-dependent",
+    "demand": "Growing",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Plan, produce, publish, and improve useful content for a clearly defined audience. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "research",
+        "storytelling",
+        "video production",
+        "audience analytics",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "YouTube Studio",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Google Trends",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Content Creator/YouTuber.",
+          "Strengthen research with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key research concepts for Content Creator/YouTuber."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study storytelling using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Content Creator/YouTuber."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through video production and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Content Creator/YouTuber study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Content Creator/YouTuber practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen research with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key research concepts for Content Creator/YouTuber."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study storytelling using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Content Creator/YouTuber."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through video production and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Content Creator/YouTuber study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Content Creator/YouTuber practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen research with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Content Creator/YouTuber."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using YouTube Studio."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Content Creator/YouTuber practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen research with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Content Creator/YouTuber."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in research."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Content Creator/YouTuber practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review audience questions and plan the day's useful content idea."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Research and outline a clear video or post with sources and key points."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Record or edit the content and prepare captions and accessible visuals."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Publish or schedule the post and review early audience signals thoughtfully."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Content Creator/YouTuber",
+      "Content Creator/YouTuber / Associate",
+      "Experienced Content Creator/YouTuber",
+      "Senior Content Creator/YouTuber",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "graphic-designer",
+      "video-editor",
+      "journalist"
+    ],
+    "quizTags": [
+      "creative",
+      "communication",
+      "leading"
+    ]
+  },
+  {
+    "id": "journalist",
+    "name": "Journalist",
+    "sector": "creative",
+    "icon": "newspaper",
+    "shortDescription": "Research and report verified information accurately for print, digital, audio, or video audiences.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Journalist role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "₹3–10 LPA",
+    "demand": "Moderate",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Research and report verified information accurately for print, digital, audio, or video audiences. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "interviewing",
+        "fact-checking",
+        "news writing",
+        "media law",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "recording tools",
+        "priority": "Must-have"
+      },
+      {
+        "name": "spreadsheets",
+        "priority": "Must-have"
+      },
+      {
+        "name": "publishing CMS",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Journalist.",
+          "Strengthen interviewing with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key interviewing concepts for Journalist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study fact-checking using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Journalist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through news writing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Journalist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Journalist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study interviewing for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen interviewing with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key interviewing concepts for Journalist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study fact-checking using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Journalist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through news writing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Journalist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Journalist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study interviewing for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen interviewing with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Journalist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using recording tools."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Journalist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study interviewing for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen interviewing with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Journalist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in interviewing."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Journalist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study interviewing for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the news desk agenda and verify incoming story leads."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Interview sources and confirm claims against documents or independent evidence."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Write or record a balanced report and check names, dates, and context."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Edit with the newsroom, publish accurately, and follow up on new information."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Journalist",
+      "Journalist / Associate",
+      "Experienced Journalist",
+      "Senior Journalist",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "graphic-designer",
+      "video-editor",
+      "content-creator-youtuber"
+    ],
+    "quizTags": [
+      "communication",
+      "logic",
+      "helping"
+    ]
+  },
+  {
+    "id": "digital-marketer",
+    "name": "Digital Marketer",
+    "sector": "creative",
+    "icon": "megaphone",
+    "shortDescription": "Plan measurable campaigns and improve how a business reaches people online.",
+    "difficulty": "Beginner",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level Digital Marketer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "₹3.5–12 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Plan measurable campaigns and improve how a business reaches people online. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "SEO",
+        "content strategy",
+        "campaign analytics",
+        "copywriting",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Google Analytics",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Google Ads",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Digital Marketer.",
+          "Strengthen seo with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key seo concepts for Digital Marketer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study content strategy using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Digital Marketer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through campaign analytics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Digital Marketer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Digital Marketer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study seo for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen seo with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key seo concepts for Digital Marketer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study content strategy using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Digital Marketer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through campaign analytics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Digital Marketer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Digital Marketer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study seo for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen seo with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Digital Marketer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Google Analytics."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Digital Marketer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study seo for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen seo with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Digital Marketer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in seo."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Digital Marketer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study seo for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review campaign performance and agree the day's measurable objective."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Research audience search intent and draft a useful campaign or landing-page improvement."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Build or adjust a campaign and verify tracking, budget, and creative details."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Compare results with the target metric and share the next experiment."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Digital Marketer",
+      "Digital Marketer / Associate",
+      "Experienced Digital Marketer",
+      "Senior Digital Marketer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "graphic-designer",
+      "video-editor",
+      "content-creator-youtuber"
+    ],
+    "quizTags": [
+      "creative",
+      "numbers",
+      "communication"
+    ]
+  },
+  {
+    "id": "photographer",
+    "name": "Photographer",
+    "sector": "creative",
+    "icon": "camera",
+    "shortDescription": "Plan and make purposeful images for people, brands, events, or editorial stories.",
+    "difficulty": "Beginner",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level Photographer role or the relevant formal qualification, from a beginner's starting point with consistent study. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "₹2.5–10 LPA; project-based",
+    "demand": "Moderate",
+    "whereItWorks": [
+      "Agencies and studios",
+      "Media organizations",
+      "In-house brand teams",
+      "Independent or remote work"
+    ],
+    "overview": "Plan and make purposeful images for people, brands, events, or editorial stories. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 or an equivalent qualification; a specialist degree is optional for many roles.",
+        "Develop a focused portfolio and practise receiving and applying feedback."
+      ],
+      "exams": [
+        "No single mandatory license; confirm current employer or state eligibility requirements."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "exposure",
+        "composition",
+        "lighting",
+        "image editing",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "camera",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Lightroom",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Photoshop",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Photographer.",
+          "Strengthen exposure with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key exposure concepts for Photographer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study composition using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Photographer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through lighting and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Photographer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Photographer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study exposure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen exposure with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key exposure concepts for Photographer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study composition using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Photographer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through lighting and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Photographer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Photographer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study exposure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen exposure with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Photographer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using camera."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Photographer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study exposure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen exposure with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Photographer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in exposure."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Photographer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study exposure for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review the creative brief, audience, delivery format, and deadline."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Confirm the client brief, shot list, location, and equipment."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Set up lighting and make images that fit the requested story or use."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Review exposure and composition on set and adjust the approach as needed."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Select and edit images, back up files, and prepare a client proof gallery."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Review the work with the client or editor and agree the next revision."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Google Skillshop",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "Canva Design School",
+        "type": "Course",
+        "link": "https://www.canva.com"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "The Non-Designer’s Design Book",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "Adobe Creative Cloud",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@AdobeCreativeCloud"
+      },
+      {
+        "title": "Google Trends",
+        "type": "Website",
+        "link": "https://trends.google.com"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Photographer",
+      "Photographer / Associate",
+      "Experienced Photographer",
+      "Senior Photographer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "graphic-designer",
+      "video-editor",
+      "content-creator-youtuber"
+    ],
+    "quizTags": [
+      "creative",
+      "communication",
+      "building"
+    ]
+  }
+]

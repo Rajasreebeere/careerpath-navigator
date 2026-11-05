@@ -1,0 +1,1591 @@
+[
+  {
+    "id": "doctor-mbbs",
+    "name": "Doctor (MBBS)",
+    "sector": "medical",
+    "icon": "stethoscope",
+    "shortDescription": "Diagnose and treat patients after completing an accredited MBBS course, internship, and registration.",
+    "difficulty": "Advanced",
+    "totalTime": "About 5.5 years including internship",
+    "goalDefinition": "Goal: become ready for an entry-level Doctor (MBBS) role or the relevant formal qualification, from Class 12 PCB with NEET-UG where required. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 5.5 years including internship",
+        "totalWeeks": 286
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 5.5 years including internship",
+        "totalWeeks": 286
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 5.5 years including internship",
+        "totalWeeks": 286
+      }
+    },
+    "salaryRange": "₹6–18 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Hospitals and clinics",
+      "Community health settings",
+      "Diagnostic or pharmacy services",
+      "Teaching institutions"
+    ],
+    "overview": "Diagnose and treat patients after completing an accredited MBBS course, internship, and registration. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with PCB and English; admission and course prerequisites vary by program.",
+        "Complete an approved professional degree and required supervised practice."
+      ],
+      "exams": [
+        "NEET-UG",
+        "University examinations and supervised internship",
+        "State or national medical registration requirements"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "biology",
+        "clinical reasoning",
+        "patient communication",
+        "medical ethics",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "clinical records",
+        "priority": "Must-have"
+      },
+      {
+        "name": "medical references",
+        "priority": "Must-have"
+      },
+      {
+        "name": "diagnostic tools",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "12 months",
+        "durationWeeks": 54,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Doctor (MBBS).",
+          "Strengthen biology with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key biology concepts for Doctor (MBBS)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study clinical reasoning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Doctor (MBBS)."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through patient communication and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Doctor (MBBS) study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Doctor (MBBS) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study biology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "17 months",
+        "durationWeeks": 72,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen biology with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key biology concepts for Doctor (MBBS)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study clinical reasoning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Doctor (MBBS)."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through patient communication and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Doctor (MBBS) study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Doctor (MBBS) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study biology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "20 months",
+        "durationWeeks": 89,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen biology with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Doctor (MBBS)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using clinical records."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Doctor (MBBS) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study biology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "16 months",
+        "durationWeeks": 71,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen biology with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Doctor (MBBS)."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in biology."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Doctor (MBBS) practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study biology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review handover notes and confirm patient-care priorities with colleagues."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Receive a clinical handover and review priority patients with the team."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Take patient histories, examine symptoms, and discuss differential diagnoses."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Review investigations and agree treatment plans with senior clinicians."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Document care, explain next steps to patients, and hand over open cases."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update clinical records, explain next steps, and prepare a careful handover."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Guyton and Hall Textbook of Medical Physiology",
+        "type": "Book",
+        "link": "https://www.elsevier.com"
+      },
+      {
+        "title": "NMC India",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@NMCIndia"
+      },
+      {
+        "title": "National Medical Commission",
+        "type": "Website",
+        "link": "https://www.nmc.org.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Doctor (MBBS)",
+      "Doctor (MBBS) / Associate",
+      "Experienced Doctor (MBBS)",
+      "Senior Doctor (MBBS)",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "nurse",
+      "pharmacist",
+      "physiotherapist"
+    ],
+    "quizTags": [
+      "science",
+      "helping",
+      "communication"
+    ]
+  },
+  {
+    "id": "nurse",
+    "name": "Nurse",
+    "sector": "medical",
+    "icon": "heart-pulse",
+    "shortDescription": "Provide evidence-based bedside care, monitor patients, and coordinate with clinical teams.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Nurse role or the relevant formal qualification, from Class 12 PCB with NEET-UG where required. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹3–9 LPA",
+    "demand": "Very high",
+    "whereItWorks": [
+      "Hospitals and clinics",
+      "Community health settings",
+      "Diagnostic or pharmacy services",
+      "Teaching institutions"
+    ],
+    "overview": "Provide evidence-based bedside care, monitor patients, and coordinate with clinical teams. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with PCB and English; admission and course prerequisites vary by program.",
+        "Complete an approved professional degree and required supervised practice."
+      ],
+      "exams": [
+        "NEET-UG for MBBS and eligible medical courses",
+        "Relevant university or state admission and registration requirements"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "patient assessment",
+        "medication safety",
+        "first aid",
+        "care planning",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "clinical records",
+        "priority": "Must-have"
+      },
+      {
+        "name": "vital monitors",
+        "priority": "Must-have"
+      },
+      {
+        "name": "medical references",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Nurse.",
+          "Strengthen patient assessment with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key patient assessment concepts for Nurse."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study medication safety using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Nurse."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through first aid and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Nurse study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Nurse practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study patient assessment for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen patient assessment with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key patient assessment concepts for Nurse."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study medication safety using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Nurse."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through first aid and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Nurse study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Nurse practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study patient assessment for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen patient assessment with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Nurse."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using clinical records."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Nurse practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study patient assessment for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen patient assessment with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Nurse."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in patient assessment."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Nurse practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study patient assessment for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review handover notes and confirm patient-care priorities with colleagues."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Receive a patient handover and confirm immediate care priorities."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Check vital signs and deliver planned nursing care using safety checks."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Administer prescribed medicines, monitor response, and alert clinicians to changes."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update patient records and explain care instructions to families."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update clinical records, explain next steps, and prepare a careful handover."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Guyton and Hall Textbook of Medical Physiology",
+        "type": "Book",
+        "link": "https://www.elsevier.com"
+      },
+      {
+        "title": "NMC India",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@NMCIndia"
+      },
+      {
+        "title": "National Medical Commission",
+        "type": "Website",
+        "link": "https://www.nmc.org.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Nurse",
+      "Nurse / Associate",
+      "Experienced Nurse",
+      "Senior Nurse",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "doctor-mbbs",
+      "pharmacist",
+      "physiotherapist"
+    ],
+    "quizTags": [
+      "helping",
+      "science",
+      "communication"
+    ]
+  },
+  {
+    "id": "pharmacist",
+    "name": "Pharmacist",
+    "sector": "medical",
+    "icon": "pill",
+    "shortDescription": "Support safe medicine use through dispensing, counselling, and pharmacy practice.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Pharmacist role or the relevant formal qualification, from Class 12 PCB with NEET-UG where required. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹3–9 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Hospitals and clinics",
+      "Community health settings",
+      "Diagnostic or pharmacy services",
+      "Teaching institutions"
+    ],
+    "overview": "Support safe medicine use through dispensing, counselling, and pharmacy practice. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with PCB and English; admission and course prerequisites vary by program.",
+        "Complete an approved professional degree and required supervised practice."
+      ],
+      "exams": [
+        "NEET-UG for MBBS and eligible medical courses",
+        "Relevant university or state admission and registration requirements"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "pharmacology",
+        "dosage calculations",
+        "dispensing",
+        "patient counselling",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "pharmacy records",
+        "priority": "Must-have"
+      },
+      {
+        "name": "inventory software",
+        "priority": "Must-have"
+      },
+      {
+        "name": "reference texts",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Pharmacist.",
+          "Strengthen pharmacology with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key pharmacology concepts for Pharmacist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study dosage calculations using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Pharmacist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through dispensing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Pharmacist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Pharmacist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study pharmacology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen pharmacology with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key pharmacology concepts for Pharmacist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study dosage calculations using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Pharmacist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through dispensing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Pharmacist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Pharmacist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study pharmacology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen pharmacology with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Pharmacist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using pharmacy records."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Pharmacist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study pharmacology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen pharmacology with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Pharmacist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in pharmacology."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Pharmacist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study pharmacology for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review handover notes and confirm patient-care priorities with colleagues."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review pharmacy stock, controlled medicine procedures, and prescriptions awaiting review."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Check prescription details, dosage, interactions, and patient-specific concerns."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Dispense or prepare medicines and explain safe use to the patient."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update records, reconcile inventory, and resolve a medicine query with the care team."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update clinical records, explain next steps, and prepare a careful handover."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Guyton and Hall Textbook of Medical Physiology",
+        "type": "Book",
+        "link": "https://www.elsevier.com"
+      },
+      {
+        "title": "NMC India",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@NMCIndia"
+      },
+      {
+        "title": "National Medical Commission",
+        "type": "Website",
+        "link": "https://www.nmc.org.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Pharmacist",
+      "Pharmacist / Associate",
+      "Experienced Pharmacist",
+      "Senior Pharmacist",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "doctor-mbbs",
+      "nurse",
+      "physiotherapist"
+    ],
+    "quizTags": [
+      "science",
+      "helping",
+      "numbers"
+    ]
+  },
+  {
+    "id": "physiotherapist",
+    "name": "Physiotherapist",
+    "sector": "medical",
+    "icon": "accessibility",
+    "shortDescription": "Assess movement and guide people through safe rehabilitation and recovery plans.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4.5–5 years",
+    "goalDefinition": "Goal: become ready for an entry-level Physiotherapist role or the relevant formal qualification, from Class 12 PCB with NEET-UG where required. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4.5–5 years",
+        "totalWeeks": 234
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4.5–5 years",
+        "totalWeeks": 234
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4.5–5 years",
+        "totalWeeks": 234
+      }
+    },
+    "salaryRange": "₹3.5–10 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Hospitals and clinics",
+      "Community health settings",
+      "Diagnostic or pharmacy services",
+      "Teaching institutions"
+    ],
+    "overview": "Assess movement and guide people through safe rehabilitation and recovery plans. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with PCB and English; admission and course prerequisites vary by program.",
+        "Complete an approved professional degree and required supervised practice."
+      ],
+      "exams": [
+        "NEET-UG for MBBS and eligible medical courses",
+        "Relevant university or state admission and registration requirements"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "anatomy",
+        "movement assessment",
+        "exercise prescription",
+        "rehabilitation",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "goniometer",
+        "priority": "Must-have"
+      },
+      {
+        "name": "exercise equipment",
+        "priority": "Must-have"
+      },
+      {
+        "name": "clinical records",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "10 months",
+        "durationWeeks": 44,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Physiotherapist.",
+          "Strengthen anatomy with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key anatomy concepts for Physiotherapist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study movement assessment using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Physiotherapist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through exercise prescription and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Physiotherapist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Physiotherapist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study anatomy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "13 months",
+        "durationWeeks": 58,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen anatomy with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key anatomy concepts for Physiotherapist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study movement assessment using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Physiotherapist."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through exercise prescription and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Physiotherapist study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Physiotherapist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study anatomy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "17 months",
+        "durationWeeks": 73,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen anatomy with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Physiotherapist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using goniometer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Physiotherapist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study anatomy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "14 months",
+        "durationWeeks": 59,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen anatomy with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Physiotherapist."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in anatomy."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Physiotherapist practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study anatomy for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review handover notes and confirm patient-care priorities with colleagues."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review appointments and each patient's current mobility goals."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Assess movement, pain, strength, and function using suitable measures."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Guide a patient through supervised exercises and safe movement practice."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Record response, adjust the rehabilitation plan, and coordinate with the care team."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update clinical records, explain next steps, and prepare a careful handover."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Guyton and Hall Textbook of Medical Physiology",
+        "type": "Book",
+        "link": "https://www.elsevier.com"
+      },
+      {
+        "title": "NMC India",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@NMCIndia"
+      },
+      {
+        "title": "National Medical Commission",
+        "type": "Website",
+        "link": "https://www.nmc.org.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Physiotherapist",
+      "Physiotherapist / Associate",
+      "Experienced Physiotherapist",
+      "Senior Physiotherapist",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "doctor-mbbs",
+      "nurse",
+      "pharmacist"
+    ],
+    "quizTags": [
+      "helping",
+      "science",
+      "communication"
+    ]
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "it",
+    "name": "IT & Technology",
+    "icon": "code-2",
+    "description": "Build software, analyze data, and protect the digital systems people depend on."
+  },
+  {
+    "id": "engineering",
+    "name": "Engineering",
+    "icon": "settings-2",
+    "description": "Turn science and mathematics into useful infrastructure, machines, and technology."
+  },
+  {
+    "id": "medical",
+    "name": "Medical & Healthcare",
+    "icon": "heart-pulse",
+    "description": "Improve health through clinical care, medicine, rehabilitation, and patient support."
+  },
+  {
+    "id": "commerce",
+    "name": "Commerce & Finance",
+    "icon": "chart-no-axes-combined",
+    "description": "Help people and organizations understand money, accounts, markets, and financial choices."
+  },
+  {
+    "id": "government",
+    "name": "Government & Civil Services",
+    "icon": "landmark",
+    "description": "Serve communities through public administration, education, defence, and policing."
+  },
+  {
+    "id": "law_education",
+    "name": "Law & Education",
+    "icon": "book-open-check",
+    "description": "Support fair institutions and help learners develop knowledge and confidence."
+  },
+  {
+    "id": "creative",
+    "name": "Creative & Media",
+    "icon": "palette",
+    "description": "Communicate ideas through design, storytelling, photography, and digital campaigns."
+  },
+  {
+    "id": "entrepreneurship",
+    "name": "Entrepreneurship",
+    "icon": "rocket",
+    "description": "Test a useful idea, build a sustainable business, and learn by serving real customers."
+  }
+]

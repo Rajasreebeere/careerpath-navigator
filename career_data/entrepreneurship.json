@@ -1,0 +1,2047 @@
+[
+  {
+    "id": "startup-founder",
+    "name": "Startup Founder",
+    "sector": "entrepreneurship",
+    "icon": "rocket",
+    "shortDescription": "Validate an idea with real customers, build a small business model, and grow a repeatable product or service.",
+    "difficulty": "Advanced",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Startup Founder role or the relevant formal qualification, from an initial idea, after validating it with prospective customers. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "No guaranteed salary; business-dependent",
+    "demand": "Variable",
+    "whereItWorks": [
+      "Online marketplaces",
+      "Local and regional markets",
+      "Customer workplaces",
+      "Direct-to-consumer channels"
+    ],
+    "overview": "Validate an idea with real customers, build a small business model, and grow a repeatable product or service. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. A practical route includes idea validation, a written business plan, funding options that match the risk, legal registration checks (including Udyam, GST, or company registration where applicable), and an ongoing marketing plan. Develop leadership, sales, and finance basics before scaling.",
+    "requirements": {
+      "education": [
+        "No single required degree; domain knowledge and customer understanding are useful.",
+        "Identify the venture's legal, tax, and local licensing needs before trading."
+      ],
+      "exams": [
+        "No mandatory entrance exam; complete idea validation and a written business plan.",
+        "Check Udyam, GST, local licences, and company registration requirements for the actual business."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "idea validation",
+        "business planning",
+        "sales",
+        "finance basics",
+        "Documentation and quality checks",
+        "Idea validation",
+        "Business planning",
+        "Marketing and customer research",
+        "Funding options",
+        "Udyam/GST/company-registration awareness"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics",
+        "Leadership",
+        "Sales conversations",
+        "Resilience"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Customer interviews and sales",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel for costs and cash flow",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Shopify or an appropriate sales channel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "CRM tools and no-code platforms",
+        "priority": "Good-to-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Startup Founder.",
+          "Strengthen idea validation with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key idea validation concepts for Startup Founder."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study business planning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Startup Founder."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sales and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Startup Founder study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Startup Founder practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study idea validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen idea validation with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key idea validation concepts for Startup Founder."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study business planning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Startup Founder."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sales and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Startup Founder study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Startup Founder practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study idea validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen idea validation with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Startup Founder."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Canva."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Startup Founder practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study idea validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen idea validation with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Startup Founder."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in idea validation."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Startup Founder practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study idea validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review customer needs, operations, and the venture's daily priorities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review customer feedback and the most important business risk."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Speak with prospective users and test one assumption about the problem."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Work with the team on a small product or service improvement."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Review cash runway, sales pipeline, and measurable next-week priorities."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update records and agree customer, supplier, or marketing follow-ups."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Startup India Learning Program",
+        "type": "Course",
+        "link": "https://www.startupindia.gov.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Google Digital Garage",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "Book",
+        "link": "https://theleanstartup.com"
+      },
+      {
+        "title": "Y Combinator",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@ycombinator"
+      },
+      {
+        "title": "Udyam Registration",
+        "type": "Website",
+        "link": "https://udyamregistration.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Validate an idea",
+      "Launch a small offer",
+      "Build repeat customers",
+      "Hire or partner",
+      "Scale sustainably"
+    ],
+    "relatedRoles": [
+      "small-business-owner",
+      "freelancer-consultant",
+      "agri-entrepreneur"
+    ],
+    "quizTags": [
+      "leading",
+      "creative",
+      "building"
+    ]
+  },
+  {
+    "id": "small-business-owner",
+    "name": "Small Business Owner",
+    "sector": "entrepreneurship",
+    "icon": "store",
+    "shortDescription": "Launch and operate a viable local business with sound customer service, records, and compliance.",
+    "difficulty": "Intermediate",
+    "totalTime": "10–14 months",
+    "goalDefinition": "Goal: become ready for an entry-level Small Business Owner role or the relevant formal qualification, from an initial idea, after validating it with prospective customers. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 37
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "10–14 months",
+        "totalWeeks": 52
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "18–25 months",
+        "totalWeeks": 93
+      }
+    },
+    "salaryRange": "Business-dependent",
+    "demand": "Growing",
+    "whereItWorks": [
+      "Online marketplaces",
+      "Local and regional markets",
+      "Customer workplaces",
+      "Direct-to-consumer channels"
+    ],
+    "overview": "Launch and operate a viable local business with sound customer service, records, and compliance. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. A practical route includes idea validation, a written business plan, funding options that match the risk, legal registration checks (including Udyam, GST, or company registration where applicable), and an ongoing marketing plan. Develop leadership, sales, and finance basics before scaling.",
+    "requirements": {
+      "education": [
+        "No single required degree; domain knowledge and customer understanding are useful.",
+        "Identify the venture's legal, tax, and local licensing needs before trading."
+      ],
+      "exams": [
+        "No mandatory entrance exam; complete idea validation and a written business plan.",
+        "Check Udyam, GST, local licences, and company registration requirements for the actual business."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "market research",
+        "cash-flow basics",
+        "sales",
+        "operations",
+        "Documentation and quality checks",
+        "Idea validation",
+        "Business planning",
+        "Marketing and customer research",
+        "Funding options",
+        "Udyam/GST/company-registration awareness"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics",
+        "Leadership",
+        "Sales conversations",
+        "Resilience"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Customer interviews and sales",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel for costs and cash flow",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Shopify or an appropriate sales channel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "CRM tools and no-code platforms",
+        "priority": "Good-to-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 10,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Small Business Owner.",
+          "Strengthen market research with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key market research concepts for Small Business Owner."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study cash-flow basics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Small Business Owner."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sales and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Small Business Owner study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Small Business Owner practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study market research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen market research with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key market research concepts for Small Business Owner."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study cash-flow basics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Small Business Owner."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through sales and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Small Business Owner study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Small Business Owner practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study market research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen market research with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Small Business Owner."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Small Business Owner practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study market research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 13,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen market research with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Small Business Owner."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in market research."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Small Business Owner practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study market research for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review customer needs, operations, and the venture's daily priorities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check opening tasks, inventory, staffing, and urgent customer requests."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Serve customers and coordinate the day's orders or local operations."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Review costs, sales, supplier commitments, and cash-flow records."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Plan a small marketing action and confirm compliance or licence follow-ups."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update records and agree customer, supplier, or marketing follow-ups."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Startup India Learning Program",
+        "type": "Course",
+        "link": "https://www.startupindia.gov.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Google Digital Garage",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "Book",
+        "link": "https://theleanstartup.com"
+      },
+      {
+        "title": "Y Combinator",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@ycombinator"
+      },
+      {
+        "title": "Udyam Registration",
+        "type": "Website",
+        "link": "https://udyamregistration.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Validate an idea",
+      "Launch a small offer",
+      "Build repeat customers",
+      "Hire or partner",
+      "Scale sustainably"
+    ],
+    "relatedRoles": [
+      "startup-founder",
+      "freelancer-consultant",
+      "agri-entrepreneur"
+    ],
+    "quizTags": [
+      "leading",
+      "communication",
+      "numbers"
+    ]
+  },
+  {
+    "id": "freelancer-consultant",
+    "name": "Freelancer/Consultant",
+    "sector": "entrepreneurship",
+    "icon": "briefcase-business",
+    "shortDescription": "Turn a marketable skill into a reliable independent practice with clear offers, contracts, and client delivery.",
+    "difficulty": "Intermediate",
+    "totalTime": "9–13 months",
+    "goalDefinition": "Goal: become ready for an entry-level Freelancer/Consultant role or the relevant formal qualification, from an initial idea, after validating it with prospective customers. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 35
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "9–13 months",
+        "totalWeeks": 48
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "16–23 months",
+        "totalWeeks": 85
+      }
+    },
+    "salaryRange": "₹2–20 LPA; variable",
+    "demand": "High",
+    "whereItWorks": [
+      "Online marketplaces",
+      "Local and regional markets",
+      "Customer workplaces",
+      "Direct-to-consumer channels"
+    ],
+    "overview": "Turn a marketable skill into a reliable independent practice with clear offers, contracts, and client delivery. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. A practical route includes idea validation, a written business plan, funding options that match the risk, legal registration checks (including Udyam, GST, or company registration where applicable), and an ongoing marketing plan. Develop leadership, sales, and finance basics before scaling.",
+    "requirements": {
+      "education": [
+        "No single required degree; domain knowledge and customer understanding are useful.",
+        "Identify the venture's legal, tax, and local licensing needs before trading."
+      ],
+      "exams": [
+        "No mandatory entrance exam; complete idea validation and a written business plan.",
+        "Check Udyam, GST, local licences, and company registration requirements for the actual business."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "service design",
+        "pricing",
+        "client communication",
+        "project management",
+        "Documentation and quality checks",
+        "Idea validation",
+        "Business planning",
+        "Marketing and customer research",
+        "Funding options",
+        "Udyam/GST/company-registration awareness"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics",
+        "Leadership",
+        "Sales conversations",
+        "Resilience"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Customer interviews and sales",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel for costs and cash flow",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Shopify or an appropriate sales channel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "CRM tools and no-code platforms",
+        "priority": "Good-to-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 9,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Freelancer/Consultant.",
+          "Strengthen service design with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key service design concepts for Freelancer/Consultant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study pricing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Freelancer/Consultant."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through client communication and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Freelancer/Consultant study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Freelancer/Consultant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study service design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen service design with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key service design concepts for Freelancer/Consultant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study pricing using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Freelancer/Consultant."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through client communication and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Freelancer/Consultant study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Freelancer/Consultant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study service design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "3 months",
+        "durationWeeks": 15,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen service design with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Freelancer/Consultant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Canva."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Freelancer/Consultant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study service design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen service design with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Freelancer/Consultant."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in service design."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Freelancer/Consultant practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study service design for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review customer needs, operations, and the venture's daily priorities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review client deadlines, proposals, and the day's delivery priorities."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Complete focused client work using the agreed scope and quality criteria."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Share a draft with the client and clarify feedback or decisions needed."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update invoices, follow-ups, and the pipeline for future work."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update records and agree customer, supplier, or marketing follow-ups."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Startup India Learning Program",
+        "type": "Course",
+        "link": "https://www.startupindia.gov.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Google Digital Garage",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "Book",
+        "link": "https://theleanstartup.com"
+      },
+      {
+        "title": "Y Combinator",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@ycombinator"
+      },
+      {
+        "title": "Udyam Registration",
+        "type": "Website",
+        "link": "https://udyamregistration.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Validate an idea",
+      "Launch a small offer",
+      "Build repeat customers",
+      "Hire or partner",
+      "Scale sustainably"
+    ],
+    "relatedRoles": [
+      "startup-founder",
+      "small-business-owner",
+      "agri-entrepreneur"
+    ],
+    "quizTags": [
+      "creative",
+      "communication",
+      "leading"
+    ]
+  },
+  {
+    "id": "agri-entrepreneur",
+    "name": "Agri-Entrepreneur",
+    "sector": "entrepreneurship",
+    "icon": "sprout",
+    "shortDescription": "Build an agriculture-linked venture around a verified farmer or supply-chain need and sustainable economics.",
+    "difficulty": "Intermediate",
+    "totalTime": "12–17 months",
+    "goalDefinition": "Goal: become ready for an entry-level Agri-Entrepreneur role or the relevant formal qualification, from an initial idea, after validating it with prospective customers. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "9–12 months",
+        "totalWeeks": 46
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "12–17 months",
+        "totalWeeks": 64
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "22–31 months",
+        "totalWeeks": 114
+      }
+    },
+    "salaryRange": "Business-dependent",
+    "demand": "Growing",
+    "whereItWorks": [
+      "Online marketplaces",
+      "Local and regional markets",
+      "Customer workplaces",
+      "Direct-to-consumer channels"
+    ],
+    "overview": "Build an agriculture-linked venture around a verified farmer or supply-chain need and sustainable economics. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. A practical route includes idea validation, a written business plan, funding options that match the risk, legal registration checks (including Udyam, GST, or company registration where applicable), and an ongoing marketing plan. Develop leadership, sales, and finance basics before scaling.",
+    "requirements": {
+      "education": [
+        "No single required degree; domain knowledge and customer understanding are useful.",
+        "Identify the venture's legal, tax, and local licensing needs before trading."
+      ],
+      "exams": [
+        "No mandatory entrance exam; complete idea validation and a written business plan.",
+        "Check Udyam, GST, local licences, and company registration requirements for the actual business."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "agriculture basics",
+        "market linkage",
+        "unit economics",
+        "supply chain",
+        "Documentation and quality checks",
+        "Idea validation",
+        "Business planning",
+        "Marketing and customer research",
+        "Funding options",
+        "Udyam/GST/company-registration awareness"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics",
+        "Leadership",
+        "Sales conversations",
+        "Resilience"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Customer interviews and sales",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel for costs and cash flow",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Shopify or an appropriate sales channel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "CRM tools and no-code platforms",
+        "priority": "Good-to-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Agri-Entrepreneur.",
+          "Strengthen agriculture basics with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key agriculture basics concepts for Agri-Entrepreneur."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study market linkage using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Agri-Entrepreneur."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through unit economics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Agri-Entrepreneur study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Agri-Entrepreneur practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study agriculture basics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen agriculture basics with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key agriculture basics concepts for Agri-Entrepreneur."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study market linkage using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Agri-Entrepreneur."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through unit economics and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Agri-Entrepreneur study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Agri-Entrepreneur practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study agriculture basics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "5 months",
+        "durationWeeks": 20,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen agriculture basics with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Agri-Entrepreneur."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Excel."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Agri-Entrepreneur practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study agriculture basics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "4 months",
+        "durationWeeks": 16,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen agriculture basics with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Agri-Entrepreneur."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in agriculture basics."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Agri-Entrepreneur practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study agriculture basics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review customer needs, operations, and the venture's daily priorities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Check farm or supply-chain conditions and urgent partner needs."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Visit a field or producer group and review practical production constraints."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Coordinate quality, storage, transport, or buyer commitments for the venture."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update input costs and sales records and plan the next field follow-up."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update records and agree customer, supplier, or marketing follow-ups."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Startup India Learning Program",
+        "type": "Course",
+        "link": "https://www.startupindia.gov.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Google Digital Garage",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "Book",
+        "link": "https://theleanstartup.com"
+      },
+      {
+        "title": "Y Combinator",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@ycombinator"
+      },
+      {
+        "title": "Udyam Registration",
+        "type": "Website",
+        "link": "https://udyamregistration.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Validate an idea",
+      "Launch a small offer",
+      "Build repeat customers",
+      "Hire or partner",
+      "Scale sustainably"
+    ],
+    "relatedRoles": [
+      "startup-founder",
+      "small-business-owner",
+      "freelancer-consultant"
+    ],
+    "quizTags": [
+      "science",
+      "leading",
+      "building"
+    ]
+  },
+  {
+    "id": "e-commerce-seller",
+    "name": "E-commerce Seller",
+    "sector": "entrepreneurship",
+    "icon": "shopping-bag",
+    "shortDescription": "Validate a product, set up compliant online sales, and improve fulfilment through customer feedback.",
+    "difficulty": "Intermediate",
+    "totalTime": "9–13 months",
+    "goalDefinition": "Goal: become ready for an entry-level E-commerce Seller role or the relevant formal qualification, from an initial idea, after validating it with prospective customers. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "7–10 months",
+        "totalWeeks": 35
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "9–13 months",
+        "totalWeeks": 48
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "16–23 months",
+        "totalWeeks": 85
+      }
+    },
+    "salaryRange": "Business-dependent",
+    "demand": "High",
+    "whereItWorks": [
+      "Online marketplaces",
+      "Local and regional markets",
+      "Customer workplaces",
+      "Direct-to-consumer channels"
+    ],
+    "overview": "Validate a product, set up compliant online sales, and improve fulfilment through customer feedback. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements. A practical route includes idea validation, a written business plan, funding options that match the risk, legal registration checks (including Udyam, GST, or company registration where applicable), and an ongoing marketing plan. Develop leadership, sales, and finance basics before scaling.",
+    "requirements": {
+      "education": [
+        "No single required degree; domain knowledge and customer understanding are useful.",
+        "Identify the venture's legal, tax, and local licensing needs before trading."
+      ],
+      "exams": [
+        "No mandatory entrance exam; complete idea validation and a written business plan.",
+        "Check Udyam, GST, local licences, and company registration requirements for the actual business."
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "product validation",
+        "listing quality",
+        "marketing",
+        "inventory planning",
+        "Documentation and quality checks",
+        "Idea validation",
+        "Business planning",
+        "Marketing and customer research",
+        "Funding options",
+        "Udyam/GST/company-registration awareness"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics",
+        "Leadership",
+        "Sales conversations",
+        "Resilience"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Customer interviews and sales",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel for costs and cash flow",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Canva",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Shopify or an appropriate sales channel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "CRM tools and no-code platforms",
+        "priority": "Good-to-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "2 months",
+        "durationWeeks": 9,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in E-commerce Seller.",
+          "Strengthen product validation with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key product validation concepts for E-commerce Seller."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study listing quality using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to E-commerce Seller."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through marketing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's E-commerce Seller study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer E-commerce Seller practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study product validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen product validation with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key product validation concepts for E-commerce Seller."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study listing quality using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to E-commerce Seller."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through marketing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's E-commerce Seller study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer E-commerce Seller practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study product validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "3 months",
+        "durationWeeks": 15,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen product validation with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for E-commerce Seller."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Shopify."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer E-commerce Seller practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study product validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "3 months",
+        "durationWeeks": 12,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen product validation with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for E-commerce Seller."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in product validation."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer E-commerce Seller practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study product validation for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review customer needs, operations, and the venture's daily priorities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review inventory, new orders, returns, and marketplace notices."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Improve a product listing with accurate images, details, and customer information."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Coordinate packing, fulfilment, and supplier replenishment."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Review campaign spend, conversion data, and customer questions before planning tests."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Update records and agree customer, supplier, or marketing follow-ups."
+      }
+    ],
+    "resources": [
+      {
+        "title": "Startup India Learning Program",
+        "type": "Course",
+        "link": "https://www.startupindia.gov.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Google Digital Garage",
+        "type": "Course",
+        "link": "https://skillshop.withgoogle.com"
+      },
+      {
+        "title": "The Lean Startup",
+        "type": "Book",
+        "link": "https://theleanstartup.com"
+      },
+      {
+        "title": "Y Combinator",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@ycombinator"
+      },
+      {
+        "title": "Udyam Registration",
+        "type": "Website",
+        "link": "https://udyamregistration.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Validate an idea",
+      "Launch a small offer",
+      "Build repeat customers",
+      "Hire or partner",
+      "Scale sustainably"
+    ],
+    "relatedRoles": [
+      "startup-founder",
+      "small-business-owner",
+      "freelancer-consultant"
+    ],
+    "quizTags": [
+      "leading",
+      "numbers",
+      "creative"
+    ]
+  }
+]

@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "lawyer",
+    "name": "Lawyer",
+    "sector": "law_education",
+    "icon": "scale",
+    "shortDescription": "Complete a recognized law degree, meet enrollment requirements, and develop a supervised legal practice.",
+    "difficulty": "Advanced",
+    "totalTime": "About 5 years",
+    "goalDefinition": "Goal: become ready for an entry-level Lawyer role or the relevant formal qualification, from Class 12 through an eligible integrated law degree. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 5 years",
+        "totalWeeks": 260
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 5 years",
+        "totalWeeks": 260
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 5 years",
+        "totalWeeks": 260
+      }
+    },
+    "salaryRange": "₹3–12 LPA; varies widely",
+    "demand": "Moderate",
+    "whereItWorks": [
+      "Schools and colleges",
+      "Courts and law firms",
+      "Public institutions",
+      "Independent research or practice"
+    ],
+    "overview": "Complete a recognized law degree, meet enrollment requirements, and develop a supervised legal practice. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Complete the course and teacher-training requirements for the chosen level.",
+        "Check current Bar Council, UGC, CTET, or state TET eligibility as relevant."
+      ],
+      "exams": [
+        "CLAT or relevant university law admission route",
+        "UGC-NET for many college teaching pathways",
+        "CTET/state TET for eligible school posts"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "constitutional law",
+        "legal research",
+        "case analysis",
+        "advocacy",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "legal databases",
+        "priority": "Must-have"
+      },
+      {
+        "name": "case reporters",
+        "priority": "Must-have"
+      },
+      {
+        "name": "word processor",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "11 months",
+        "durationWeeks": 49,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Lawyer.",
+          "Strengthen constitutional law with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key constitutional law concepts for Lawyer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study legal research using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Lawyer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through case analysis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Lawyer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Lawyer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study constitutional law for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "15 months",
+        "durationWeeks": 65,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen constitutional law with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key constitutional law concepts for Lawyer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study legal research using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Lawyer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through case analysis and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Lawyer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Lawyer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study constitutional law for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "19 months",
+        "durationWeeks": 81,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen constitutional law with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Lawyer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using legal databases."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Lawyer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study constitutional law for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "15 months",
+        "durationWeeks": 65,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen constitutional law with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Lawyer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in constitutional law."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Lawyer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study constitutional law for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review today's teaching, research, or client responsibilities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review court dates, client instructions, and urgent filing deadlines."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Research current statutes and case authorities relevant to a matter."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Draft or revise a pleading, contract, opinion, or client communication."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Meet a client or appear in court and record the agreed next steps."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Complete records, respond to colleagues or students, and plan the next session."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NCERT",
+        "type": "Course",
+        "link": "https://ncert.nic.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Introduction to the Constitution of India",
+        "type": "Book",
+        "link": "https://lexisnexis.in"
+      },
+      {
+        "title": "Consortium of NLUs",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@consortiumofnlu"
+      },
+      {
+        "title": "UGC",
+        "type": "Website",
+        "link": "https://www.ugc.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Lawyer",
+      "Lawyer / Associate",
+      "Experienced Lawyer",
+      "Senior Lawyer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "school-teacher",
+      "college-professor",
+      "ai-engineer"
+    ],
+    "quizTags": [
+      "communication",
+      "logic",
+      "helping"
+    ]
+  },
+  {
+    "id": "school-teacher",
+    "name": "School Teacher",
+    "sector": "law_education",
+    "icon": "book-open-check",
+    "shortDescription": "Teach a school subject after an eligible degree, required teacher training, and state or central qualification.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level School Teacher role or the relevant formal qualification, from Class 12 through an eligible teacher-education route. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹3.5–9 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Schools and colleges",
+      "Courts and law firms",
+      "Public institutions",
+      "Independent research or practice"
+    ],
+    "overview": "Teach a school subject after an eligible degree, required teacher training, and state or central qualification. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Complete the course and teacher-training requirements for the chosen level.",
+        "Check current Bar Council, UGC, CTET, or state TET eligibility as relevant."
+      ],
+      "exams": [
+        "CLAT or relevant university law admission route",
+        "UGC-NET for many college teaching pathways",
+        "CTET/state TET for eligible school posts"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "subject knowledge",
+        "lesson planning",
+        "assessment",
+        "inclusive teaching",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "NCERT resources",
+        "priority": "Must-have"
+      },
+      {
+        "name": "presentation tools",
+        "priority": "Must-have"
+      },
+      {
+        "name": "classroom technology",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in School Teacher.",
+          "Strengthen subject knowledge with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key subject knowledge concepts for School Teacher."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study lesson planning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to School Teacher."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through assessment and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's School Teacher study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer School Teacher practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject knowledge for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen subject knowledge with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key subject knowledge concepts for School Teacher."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study lesson planning using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to School Teacher."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through assessment and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's School Teacher study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer School Teacher practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject knowledge for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen subject knowledge with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for School Teacher."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using NCERT resources."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer School Teacher practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject knowledge for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen subject knowledge with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for School Teacher."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in subject knowledge."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer School Teacher practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject knowledge for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review today's teaching, research, or client responsibilities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the lesson plan and prepare materials for the day's classes."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Teach a subject lesson, invite questions, and check learner understanding."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Mark classwork and provide specific feedback or extra support."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Coordinate with colleagues or parents and plan the next lesson sequence."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Complete records, respond to colleagues or students, and plan the next session."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NCERT",
+        "type": "Course",
+        "link": "https://ncert.nic.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Introduction to the Constitution of India",
+        "type": "Book",
+        "link": "https://lexisnexis.in"
+      },
+      {
+        "title": "Consortium of NLUs",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@consortiumofnlu"
+      },
+      {
+        "title": "UGC",
+        "type": "Website",
+        "link": "https://www.ugc.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior School Teacher",
+      "School Teacher / Associate",
+      "Experienced School Teacher",
+      "Senior School Teacher",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "lawyer",
+      "college-professor",
+      "ai-engineer"
+    ],
+    "quizTags": [
+      "helping",
+      "communication",
+      "leading"
+    ]
+  },
+  {
+    "id": "college-professor",
+    "name": "College Professor",
+    "sector": "law_education",
+    "icon": "graduation-cap",
+    "shortDescription": "Build subject expertise through postgraduate study and UGC-NET or an eligible research pathway.",
+    "difficulty": "Advanced",
+    "totalTime": "About 7 years",
+    "goalDefinition": "Goal: become ready for an entry-level College Professor role or the relevant formal qualification, from Class 12 through a bachelor's and postgraduate degree. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 7 years",
+        "totalWeeks": 364
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 7 years",
+        "totalWeeks": 364
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 7 years",
+        "totalWeeks": 364
+      }
+    },
+    "salaryRange": "₹6–15 LPA",
+    "demand": "Competitive",
+    "whereItWorks": [
+      "Schools and colleges",
+      "Courts and law firms",
+      "Public institutions",
+      "Independent research or practice"
+    ],
+    "overview": "Build subject expertise through postgraduate study and UGC-NET or an eligible research pathway. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Complete a relevant bachelor's degree followed by a postgraduate degree.",
+        "Check current UGC eligibility, NET/SET, research, and institution requirements."
+      ],
+      "exams": [
+        "CLAT or relevant university law admission route",
+        "UGC-NET for many college teaching pathways",
+        "CTET/state TET for eligible school posts"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "subject mastery",
+        "research methods",
+        "academic writing",
+        "teaching",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "Google Scholar",
+        "priority": "Must-have"
+      },
+      {
+        "name": "reference manager",
+        "priority": "Must-have"
+      },
+      {
+        "name": "presentation tools",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "16 months",
+        "durationWeeks": 69,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in College Professor.",
+          "Strengthen subject mastery with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key subject mastery concepts for College Professor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study research methods using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to College Professor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through academic writing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's College Professor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer College Professor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject mastery for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "21 months",
+        "durationWeeks": 91,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen subject mastery with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key subject mastery concepts for College Professor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study research methods using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to College Professor."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through academic writing and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's College Professor study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer College Professor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject mastery for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "26 months",
+        "durationWeeks": 113,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen subject mastery with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for College Professor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using Google Scholar."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer College Professor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject mastery for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "21 months",
+        "durationWeeks": 91,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen subject mastery with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for College Professor."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in subject mastery."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer College Professor practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study subject mastery for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review today's teaching, research, or client responsibilities."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Prepare a lecture and review questions from students and research collaborators."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Teach a university class and facilitate discussion of course concepts."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Advise students, supervise project work, or review assessment submissions."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Read or write research, coordinate academic work, and plan upcoming teaching."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Complete records, respond to colleagues or students, and plan the next session."
+      }
+    ],
+    "resources": [
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "NCERT",
+        "type": "Course",
+        "link": "https://ncert.nic.in"
+      },
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "Introduction to the Constitution of India",
+        "type": "Book",
+        "link": "https://lexisnexis.in"
+      },
+      {
+        "title": "Consortium of NLUs",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@consortiumofnlu"
+      },
+      {
+        "title": "UGC",
+        "type": "Website",
+        "link": "https://www.ugc.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior College Professor",
+      "College Professor / Associate",
+      "Experienced College Professor",
+      "Senior College Professor",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "lawyer",
+      "school-teacher",
+      "ai-engineer"
+    ],
+    "quizTags": [
+      "science",
+      "communication",
+      "helping"
+    ]
+  }
+]

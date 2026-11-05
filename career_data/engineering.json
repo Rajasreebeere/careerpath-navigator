@@ -1,0 +1,1590 @@
+[
+  {
+    "id": "mechanical-engineer",
+    "name": "Mechanical Engineer",
+    "sector": "engineering",
+    "icon": "cog",
+    "shortDescription": "Design, analyze, and improve machines, components, and manufacturing processes.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Mechanical Engineer role or the relevant formal qualification, from Class 12 with the required maths and science subjects. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹4–12 LPA",
+    "demand": "Moderate",
+    "whereItWorks": [
+      "Manufacturing and infrastructure firms",
+      "Consulting practices",
+      "Public-sector organizations",
+      "Project and site teams"
+    ],
+    "overview": "Design, analyze, and improve machines, components, and manufacturing processes. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with Physics and Mathematics; Chemistry or other subjects depend on the program.",
+        "Complete an AICTE/university-recognized engineering degree for regulated or graduate roles."
+      ],
+      "exams": [
+        "JEE Main or a state engineering entrance exam where applicable",
+        "GATE for postgraduate study or selected public-sector roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "mathematics",
+        "thermodynamics",
+        "CAD",
+        "manufacturing",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "AutoCAD",
+        "priority": "Must-have"
+      },
+      {
+        "name": "SolidWorks",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Mechanical Engineer.",
+          "Strengthen mathematics with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key mathematics concepts for Mechanical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study thermodynamics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Mechanical Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through cad and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Mechanical Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mechanical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study mathematics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen mathematics with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key mathematics concepts for Mechanical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study thermodynamics using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Mechanical Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through cad and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Mechanical Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mechanical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study mathematics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen mathematics with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Mechanical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using AutoCAD."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mechanical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study mathematics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen mathematics with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Mechanical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in mathematics."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Mechanical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study mathematics for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review project priorities, specifications, and required safety checks."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the production plan, equipment status, and safety checklist."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Inspect a component drawing and calculate loads, tolerances, or material needs."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Update a CAD design or observe a manufacturing test against specifications."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Log quality findings and coordinate a design or process improvement."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Coordinate findings with site, design, quality, or production colleagues."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Engineering Mechanics",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "NPTEL",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@nptelhrd"
+      },
+      {
+        "title": "Bureau of Indian Standards",
+        "type": "Website",
+        "link": "https://www.bis.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Mechanical Engineer",
+      "Mechanical Engineer / Associate",
+      "Experienced Mechanical Engineer",
+      "Senior Mechanical Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "civil-engineer",
+      "electrical-engineer",
+      "electronics-engineer"
+    ],
+    "quizTags": [
+      "science",
+      "building",
+      "numbers"
+    ]
+  },
+  {
+    "id": "civil-engineer",
+    "name": "Civil Engineer",
+    "sector": "engineering",
+    "icon": "building-2",
+    "shortDescription": "Plan, design, and supervise safe buildings, roads, water systems, and other infrastructure.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Civil Engineer role or the relevant formal qualification, from Class 12 with the required maths and science subjects. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹4–12 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Manufacturing and infrastructure firms",
+      "Consulting practices",
+      "Public-sector organizations",
+      "Project and site teams"
+    ],
+    "overview": "Plan, design, and supervise safe buildings, roads, water systems, and other infrastructure. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with Physics and Mathematics; Chemistry or other subjects depend on the program.",
+        "Complete an AICTE/university-recognized engineering degree for regulated or graduate roles."
+      ],
+      "exams": [
+        "JEE Main or a state engineering entrance exam where applicable",
+        "GATE for postgraduate study or selected public-sector roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "structural analysis",
+        "surveying",
+        "materials",
+        "project planning",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "AutoCAD",
+        "priority": "Must-have"
+      },
+      {
+        "name": "STAAD.Pro",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Excel",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Civil Engineer.",
+          "Strengthen structural analysis with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key structural analysis concepts for Civil Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study surveying using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Civil Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through materials and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Civil Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Civil Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study structural analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen structural analysis with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key structural analysis concepts for Civil Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study surveying using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Civil Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through materials and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Civil Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Civil Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study structural analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen structural analysis with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Civil Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using AutoCAD."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Civil Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study structural analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen structural analysis with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Civil Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in structural analysis."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Civil Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study structural analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review project priorities, specifications, and required safety checks."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review site progress, weather, drawings, and the daily safety briefing."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Inspect construction work and compare measurements with approved plans."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Coordinate contractors, materials, and quality checks at the project site."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Update site records and raise delays or safety issues with the project lead."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Coordinate findings with site, design, quality, or production colleagues."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Engineering Mechanics",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "NPTEL",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@nptelhrd"
+      },
+      {
+        "title": "Bureau of Indian Standards",
+        "type": "Website",
+        "link": "https://www.bis.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Civil Engineer",
+      "Civil Engineer / Associate",
+      "Experienced Civil Engineer",
+      "Senior Civil Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "mechanical-engineer",
+      "electrical-engineer",
+      "electronics-engineer"
+    ],
+    "quizTags": [
+      "science",
+      "building",
+      "numbers"
+    ]
+  },
+  {
+    "id": "electrical-engineer",
+    "name": "Electrical Engineer",
+    "sector": "engineering",
+    "icon": "zap",
+    "shortDescription": "Design and maintain electrical power systems, equipment, and safe installations.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Electrical Engineer role or the relevant formal qualification, from Class 12 with the required maths and science subjects. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹4–13 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Manufacturing and infrastructure firms",
+      "Consulting practices",
+      "Public-sector organizations",
+      "Project and site teams"
+    ],
+    "overview": "Design and maintain electrical power systems, equipment, and safe installations. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with Physics and Mathematics; Chemistry or other subjects depend on the program.",
+        "Complete an AICTE/university-recognized engineering degree for regulated or graduate roles."
+      ],
+      "exams": [
+        "JEE Main or a state engineering entrance exam where applicable",
+        "GATE for postgraduate study or selected public-sector roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "circuit analysis",
+        "power systems",
+        "machines",
+        "control",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "MATLAB",
+        "priority": "Must-have"
+      },
+      {
+        "name": "ETAP",
+        "priority": "Must-have"
+      },
+      {
+        "name": "AutoCAD",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Electrical Engineer.",
+          "Strengthen circuit analysis with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key circuit analysis concepts for Electrical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study power systems using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Electrical Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through machines and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Electrical Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electrical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study circuit analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen circuit analysis with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key circuit analysis concepts for Electrical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study power systems using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Electrical Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through machines and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Electrical Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electrical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study circuit analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen circuit analysis with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Electrical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using MATLAB."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electrical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study circuit analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen circuit analysis with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Electrical Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in circuit analysis."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electrical Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study circuit analysis for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review project priorities, specifications, and required safety checks."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the equipment log, permit status, and electrical safety plan."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Check a circuit or power-system drawing against the installation requirement."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Test equipment, trace a fault, or review measured load and protection data."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Record test results and coordinate the next safe maintenance step."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Coordinate findings with site, design, quality, or production colleagues."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Engineering Mechanics",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "NPTEL",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@nptelhrd"
+      },
+      {
+        "title": "Bureau of Indian Standards",
+        "type": "Website",
+        "link": "https://www.bis.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Electrical Engineer",
+      "Electrical Engineer / Associate",
+      "Experienced Electrical Engineer",
+      "Senior Electrical Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "mechanical-engineer",
+      "civil-engineer",
+      "electronics-engineer"
+    ],
+    "quizTags": [
+      "science",
+      "logic",
+      "building"
+    ]
+  },
+  {
+    "id": "electronics-engineer",
+    "name": "Electronics Engineer",
+    "sector": "engineering",
+    "icon": "cpu",
+    "shortDescription": "Develop and test circuits, embedded systems, and electronic products.",
+    "difficulty": "Intermediate",
+    "totalTime": "About 4 years",
+    "goalDefinition": "Goal: become ready for an entry-level Electronics Engineer role or the relevant formal qualification, from Class 12 with the required maths and science subjects. Formal exams, admissions, registration, hiring, and market conditions can change the actual finish date.",
+    "timeToGoal": {
+      "intensive": {
+        "hoursPerDay": 6,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "regular": {
+        "hoursPerDay": 4,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      },
+      "relaxed": {
+        "hoursPerDay": 2,
+        "totalTime": "About 4 years",
+        "totalWeeks": 208
+      }
+    },
+    "salaryRange": "₹4–14 LPA",
+    "demand": "High",
+    "whereItWorks": [
+      "Manufacturing and infrastructure firms",
+      "Consulting practices",
+      "Public-sector organizations",
+      "Project and site teams"
+    ],
+    "overview": "Develop and test circuits, embedded systems, and electronic products. Progress usually combines structured learning, deliberate practice, and feedback. Your exact route depends on your subjects, location, eligibility, and the latest official requirements.",
+    "requirements": {
+      "education": [
+        "Class 12 with Physics and Mathematics; Chemistry or other subjects depend on the program.",
+        "Complete an AICTE/university-recognized engineering degree for regulated or graduate roles."
+      ],
+      "exams": [
+        "JEE Main or a state engineering entrance exam where applicable",
+        "GATE for postgraduate study or selected public-sector roles"
+      ],
+      "eligibility": [
+        "Confirm subject, age, category, and location requirements from the relevant official authority before applying.",
+        "Build the required foundational knowledge and keep academic or professional records ready.",
+        "Do not treat this estimated roadmap as a substitute for current admission or recruitment notices."
+      ]
+    },
+    "skills": {
+      "technical": [
+        "analog circuits",
+        "digital systems",
+        "embedded C",
+        "signal basics",
+        "Documentation and quality checks"
+      ],
+      "soft": [
+        "Clear communication",
+        "Curiosity and continuous learning",
+        "Time management",
+        "Teamwork and professional ethics"
+      ]
+    },
+    "languagesAndTools": [
+      {
+        "name": "C",
+        "priority": "Must-have"
+      },
+      {
+        "name": "Arduino",
+        "priority": "Must-have"
+      },
+      {
+        "name": "MATLAB",
+        "priority": "Good-to-have"
+      },
+      {
+        "name": "English and clear written communication",
+        "priority": "Must-have"
+      }
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Foundation",
+        "duration": "9 months",
+        "durationWeeks": 40,
+        "goals": [
+          "Set a baseline and define the qualification route.",
+          "Build the foundational knowledge used in Electronics Engineer.",
+          "Strengthen analog circuits with a concrete exercise and written notes.",
+          "Read the official course, exam, or profession requirements.",
+          "Complete a short diagnostic and reflect on study gaps."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key analog circuits concepts for Electronics Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study digital systems using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Electronics Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through embedded c and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Electronics Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electronics Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study analog circuits for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 2: Core Skills",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Complete a structured sequence in the role's core skills.",
+          "Practise core concepts with worked examples and feedback.",
+          "Strengthen analog circuits with a concrete exercise and written notes.",
+          "Use spaced revision and keep concise notes.",
+          "Check progress against the next academic or hiring milestone."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review key analog circuits concepts for Electronics Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Study digital systems using a guided lesson or textbook."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Practise one focused exercise connected to Electronics Engineer."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Work through embedded c and note your questions."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Take a short break, then recall the main ideas without looking at notes."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Write a brief reflection and prepare tomorrow's Electronics Engineer study goal."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electronics Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study analog circuits for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 3: Projects / Practice",
+        "duration": "15 months",
+        "durationWeeks": 64,
+        "goals": [
+          "Complete a practical project, case, clinical task, or supervised exercise.",
+          "Use a checklist to test the quality and safety of your work.",
+          "Strengthen analog circuits with a concrete exercise and written notes.",
+          "Document what you did and what you learned.",
+          "Build a second practice example that covers a different context."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review the project or practice brief for Electronics Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Break the work into one clear task for today."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Build or practise a small part using C."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Check your work against safety, quality, or user needs."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Record evidence, observations, and questions for feedback."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Summarize progress and set the next practice milestone."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electronics Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study analog circuits for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      },
+      {
+        "title": "Phase 4: Job / Exam Ready",
+        "duration": "12 months",
+        "durationWeeks": 52,
+        "goals": [
+          "Prepare an evidence-based portfolio, exam file, or qualification record.",
+          "Practise interviews, viva questions, or exam answers under time limits.",
+          "Strengthen analog circuits with a concrete exercise and written notes.",
+          "Apply to suitable openings or complete the next formal selection step.",
+          "Set a continuing-learning plan for the first year in the role."
+        ],
+        "dailyPlan": [
+          {
+            "time": "6:00–7:00 AM",
+            "activity": "Review your exam, application, or portfolio plan for Electronics Engineer."
+          },
+          {
+            "time": "7:10–7:40 AM",
+            "activity": "Practise one timed question or interview response."
+          },
+          {
+            "time": "7:40–8:10 AM",
+            "activity": "Update your notes, evidence, or professional documents."
+          },
+          {
+            "time": "6:00–7:00 PM",
+            "activity": "Revise a priority topic in analog circuits."
+          },
+          {
+            "time": "7:15–8:00 PM",
+            "activity": "Check a current official notice, opportunity, or eligibility requirement."
+          },
+          {
+            "time": "8:00–8:15 PM",
+            "activity": "Reflect on readiness and choose one improvement for tomorrow."
+          }
+        ],
+        "weekendPlan": [
+          {
+            "time": "9:00–10:30 AM",
+            "activity": "Complete a longer Electronics Engineer practice block and review the week's notes."
+          },
+          {
+            "time": "11:00 AM–12:00 PM",
+            "activity": "Work on a weekly exercise, assignment, case, or project milestone."
+          },
+          {
+            "time": "5:00–5:30 PM",
+            "activity": "Review progress, plan the next week, and take time to rest."
+          }
+        ],
+        "weeklyGoals": [
+          "Study analog circuits for four focused sessions.",
+          "Complete one practical exercise and check it against a rubric.",
+          "Spend 30 minutes revising older notes and errors.",
+          "Set one weekly outcome and review it at the weekend."
+        ]
+      }
+    ],
+    "dayInTheLife": [
+      {
+        "time": "9:00 AM",
+        "activity": "Review project priorities, specifications, and required safety checks."
+      },
+      {
+        "time": "10:00 AM",
+        "activity": "Review the prototype issue list and the day's bench-test plan."
+      },
+      {
+        "time": "11:30 AM",
+        "activity": "Assemble or inspect a circuit and verify signals with test equipment."
+      },
+      {
+        "time": "1:00 PM",
+        "activity": "Take a meal break and reset for the afternoon."
+      },
+      {
+        "time": "2:00 PM",
+        "activity": "Debug embedded firmware or component behavior against a test case."
+      },
+      {
+        "time": "3:30 PM",
+        "activity": "Record measurements and prepare the next prototype revision."
+      },
+      {
+        "time": "5:00 PM",
+        "activity": "Coordinate findings with site, design, quality, or production colleagues."
+      }
+    ],
+    "resources": [
+      {
+        "title": "NPTEL",
+        "type": "Course",
+        "link": "https://nptel.ac.in"
+      },
+      {
+        "title": "SWAYAM",
+        "type": "Course",
+        "link": "https://swayam.gov.in"
+      },
+      {
+        "title": "Khan Academy",
+        "type": "Course",
+        "link": "https://www.khanacademy.org"
+      },
+      {
+        "title": "Engineering Mechanics",
+        "type": "Book",
+        "link": "https://www.pearson.com"
+      },
+      {
+        "title": "NPTEL",
+        "type": "YouTube",
+        "link": "https://www.youtube.com/@nptelhrd"
+      },
+      {
+        "title": "Bureau of Indian Standards",
+        "type": "Website",
+        "link": "https://www.bis.gov.in"
+      }
+    ],
+    "careerGrowth": [
+      "Junior Electronics Engineer",
+      "Electronics Engineer / Associate",
+      "Experienced Electronics Engineer",
+      "Senior Electronics Engineer",
+      "Lead / Practice Specialist"
+    ],
+    "relatedRoles": [
+      "mechanical-engineer",
+      "civil-engineer",
+      "electrical-engineer"
+    ],
+    "quizTags": [
+      "science",
+      "logic",
+      "building"
+    ]
+  }
+]
